@@ -2,10 +2,10 @@
 layout: page
 title: About me
 subtitle: I hope you are not from the NSA
----
 <a href="https://www.linkedin.com/in/giedrius-saul%C4%97nas-000554149/">
 <img src="{{ 'assets/img/linkedin.png' | relative_url }}" />
 </a>
+---
 
 ### Who am I?
 My name is **Giedrius Saulėnas** and I am 21 years old technology enthusiast, hacker, creator, from Lithuania.
