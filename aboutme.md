@@ -2,9 +2,6 @@
 layout: page
 title: About me
 subtitle: I hope you are not from the NSA
-<a href="https://www.linkedin.com/in/giedrius-saul%C4%97nas-000554149/">
-<img src="{{ 'assets/img/linkedin.png' | relative_url }}" />
-</a>
 ---
 
 ### Who am I?
@@ -13,6 +10,9 @@ My name is **Giedrius Saulėnas** and I am 21 years old technology enthusiast, h
 - I am studying information technology at [Vilnius University](https://www.vu.lt/en/)
 - I am working as a penetration tester at [Baltic Amadeus](https://ba.lt/en/)
 
+<a href="https://www.linkedin.com/in/giedrius-saul%C4%97nas-000554149/">
+<img src="{{ 'assets/img/linkedin.png' | relative_url }}" />
+</a>
 ### What am I doing?
 Some of the things I like and am trying to get good at:
 - Penetration testing, vulnerability assesments, web application security
