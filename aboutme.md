@@ -7,8 +7,8 @@ subtitle: I hope you are not from the NSA
 ### Who am I?
 My name is **Giedrius Saulėnas** and I am 21 years old technology enthusiast, hacker, creator, from Lithuania.
 
-- I am studying information technology at [Vilnius University] (https://www.vu.lt/en/)
-- I am working as a penetration tester at [Baltic Amadeus] (https://ba.lt/en/)
+- I am studying information technology at [Vilnius University](https://www.vu.lt/en/)
+- I am working as a penetration tester at [Baltic Amadeus](https://ba.lt/en/)
 
 ### What am I doing?
 Some of the things I like and am trying to get good at:
@@ -17,6 +17,11 @@ Some of the things I like and am trying to get good at:
 - Development (of tools, scripts, small websites or whatnot)
 - Bug bounties
 - Hackathons
+
+### Skills
+These are the things I've worked with
+
+[comment]: <> (### Hackhatons and events)
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:

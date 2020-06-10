@@ -11,13 +11,14 @@ author: Giedrius Saulėnas
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
+navbar-links: 
+  Blog: ""
+  Tutorials: ""
+  Projects: 
+    - Project 1: ""
+    - Project 2: ""
+  Disclosures: "disclosures"
   About Me: "aboutme"
-    - Disclosures: "https://google.com" 
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
