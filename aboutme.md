@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I hope you are not from the NSA
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Who am I?
+My name is Giedrius Saulėnas and I am 21 years old technology enthusiast, hacker, creator, from Lithuania.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am studying information technology at Vilnius University
+I am working as a penetration tester at Baltic Amadeus
 
-What else do you need?
+### What am I doing?
+Some of the things I like and am trying to get good at:
+- Penetration testing, vulnerability assesments, web application security
+- Quality assurance
+- Development (of tools, scripts, small websites or whatnot)
+- Bug bounties
+- Hackathons
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+###Why cybersecurity?
+Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:
+- You are always learning. Different technologies, different tools, different business domains. Cybersecurity is so broad that you face a lot of variety, which is a fuel for me.
+- There is always a challenge. Even though cybersecurity might be an uphill fight, it is still fun trying.
+- You get to hang around (either, virtually or physically) very smart people. I never liked being the smartest person in the room.  
