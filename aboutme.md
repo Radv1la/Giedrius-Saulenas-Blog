@@ -19,7 +19,10 @@ Some of the things I like and am trying to get good at:
 - Hackathons
 
 ### Skills
-These are the things I've worked with
+These are the things I have experience with:
+- **Programming languages and frameworks**: Python, Laravel, Node.js
+- **Cybersecurity tools**: Acunetix, Burp Suite
+- **Other**: WordPress, Linux
 
 [comment]: <> (### Hackhatons and events)
 
