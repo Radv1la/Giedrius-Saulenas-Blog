@@ -24,8 +24,8 @@ Some of the things I like and am trying to get good at:
 
 ### Skills
 These are the things I have experience with:
-- **Programming languages and frameworks**: Python, Laravel, Node.js
-- **Cybersecurity tools**: Acunetix, Burp Suite
+- **Programming languages and frameworks**: Python, Node.js, Laravel, Vue.js
+- **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus
 - **Other**: WordPress, Linux
 
 [comment]: <> (### Hackhatons and events)

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: 1000 Reasons I Like Strawberries And Cucumbers
+subtitle: Strawberries > Raspberries. Prove me wrong
+tags: [raspberry-pi]
 category: raspberry-pi
 comments: true
 ---

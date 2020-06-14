@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Giedrius Saulėnas
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Personal blog about cybersecurity
 
 # Your name to show in the footer
 author: Giedrius Saulėnas
@@ -12,11 +12,13 @@ author: Giedrius Saulėnas
 # --- List of links in the navigation bar --- #
 
 navbar-links: 
-  Blog: ""
-  Tutorials: ""
-  Projects: 
-    - Project 1: ""
-    - Project 2: ""
+  Articles:
+    - Bug bounties: "bug-bounties"
+    - Learning cybersecurity: "learning-cybersecurity"
+    - Case studies: "case-studies"
+    - Other: "other"
+  Tutorials: "tutorials"
+  Projects: "projects"
   Disclosures: "disclosures"
   About Me: "aboutme"
 
@@ -41,12 +43,11 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "giedrius.saulenas@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  linkedin: giedrius-saulėnas-000554149
+  github: Radv1la
+  twitter: GSaulenas
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "saulenas.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -83,14 +84,14 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-border-col: "#EAEAEA"
+navbar-col: "#034078"
+navbar-text-col: "#F5F5F5"
+navbar-border-col: "#034078"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#034078"
+footer-text-col: "#F5F5F5"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -170,7 +171,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
@@ -211,4 +212,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-host: 0.0.0.0
