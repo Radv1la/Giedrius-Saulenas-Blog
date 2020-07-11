@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I hope you are not from the NSA
+subtitle: Let's do some hacking!
 ---
 <center>
 <a href="https://www.linkedin.com/in/giedrius-saul%C4%97nas-000554149/">
@@ -18,11 +18,12 @@ My name is **Giedrius Saulėnas** and I am 21 years old technology enthusiast, h
 Some of the things I like and am trying to get good at:
 - Penetration testing, vulnerability assesments, web application security
 - Quality assurance
-- Development (of tools, scripts, small websites or whatnot)
+- Creating things (tools, scripts, small websites or whatnot)
 - Bug bounties
-- Hackathons
+
 
 ### Skills
+
 These are the things I have experience with:
 - **Programming languages and frameworks**: Python, Node.js, Laravel, Vue.js
 - **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus

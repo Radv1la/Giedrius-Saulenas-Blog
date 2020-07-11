@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bug-bounties
 title: Bug bounties
 ---
 

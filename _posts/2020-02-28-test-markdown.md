@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Sample blog post
+title: Sample blog postsz
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
-category: raspberry-pi
+categories: [bug-bounties, programming, other]
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Jahre Reasons I Like Strawberries
 subtitle: Strawberries > Raspberries. Prove me wrong
 tags: [raspberry-pi]
-category: raspberry-pi
+categories: [raspberry-pi, ethical-hacking, cybersecurity-tools, case-studies]
 comments: true
 ---
 

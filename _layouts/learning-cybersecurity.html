@@ -4,7 +4,8 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.categories.raspberry-pi %}
+
+{% assign posts = paginator.posts | default: site.categories.learning-cybersecurity %}
 
 <div class="posts-list">
   {% for post in posts %}

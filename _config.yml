@@ -16,7 +16,7 @@ navbar-links:
     - Bug bounties: "bug-bounties"
     - Learning cybersecurity: "learning-cybersecurity"
     - Case studies: "case-studies"
-    - Other: "other"
+    - Other Writeups: "other-writeups"
   Tutorials: "tutorials"
   Projects: "projects"
   Disclosures: "disclosures"

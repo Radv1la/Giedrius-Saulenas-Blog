@@ -3,7 +3,7 @@ layout: post
 title: Billion Reasons I Like Strawberries
 subtitle: Strawberries > Raspberries. Prove me wrong
 tags: [raspberry-pi]
-category: raspberry-pi
+category: [learning-cybersecurity, programming]
 comments: true
 ---
 

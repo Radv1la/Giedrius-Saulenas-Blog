@@ -1,8 +1,7 @@
 ---
 layout: page
-title: My disclosures
-subtitle: These are the CVEs I've found
+title: Vulnerability disclosures
+subtitle: There are some finding that aren't allowed to be disclosed. For a full list, check my profile on bug bounty platforms
 ---
-
-These CVEs were found during the participation in bug bounties or research of open source products.
-### CVEs
+### Disclosures
+Nothing yet, but there will be soon. I promise!
