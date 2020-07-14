@@ -29,10 +29,11 @@ These are the things I have experience with:
 - **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus
 - **Other**: WordPress, Linux
 
-[comment]: <> (### Hackhatons and events)
+### Events I participated in
+- OWASP Lithuania Chapter Meetup #12. 2020-07-01
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:
-- You are always learning. Different technologies, different tools, different business domains. Cybersecurity is so broad that you face a lot of variety, which is a fuel for me.
+- You are always learning. Different technologies, different tools, different business domains. Cybersecurity is so broad that you face a lot of variety.
 - There is always a challenge. Even though cybersecurity might be an uphill fight, it is still fun trying.
-- You get to hang around (either, virtually or physically) very smart people. I never liked being the smartest person in the room.  
+- You get to hang around (either, virtually or physically) very smart people.

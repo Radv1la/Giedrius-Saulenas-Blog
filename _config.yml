@@ -12,11 +12,12 @@ author: Giedrius Saulėnas
 # --- List of links in the navigation bar --- #
 
 navbar-links: 
-  Articles:
-    - Bug bounties: "bug-bounties"
-    - Learning cybersecurity: "learning-cybersecurity"
-    - Case studies: "case-studies"
-    - Other Writeups: "other-writeups"
+  Articles: "articles"
+#  Articles:
+#    - Bug bounties: "bug-bounties"
+#    - Learning cybersecurity: "learning-cybersecurity"
+#    - Case studies: "case-studies"
+#    - Other Writeups: "other-writeups"
   Tutorials: "tutorials"
   Projects: "projects"
   Disclosures: "disclosures"
@@ -209,6 +210,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
