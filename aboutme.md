@@ -10,7 +10,7 @@ subtitle: Let's do some hacking!
 </center>
 ### Who am I?
 
-My name is **Giedrius Saulėnas** and I am 21 years old technology enthusiast, hacker, creator, from Lithuania.
+My name is **Giedrius Saulėnas** and I am 22 years old technology enthusiast, hacker, creator, from Lithuania.
 - I am studying information technology at [Vilnius University](https://www.vu.lt/en/)
 - I am working as a penetration tester at [Baltic Amadeus](https://ba.lt/en/)
 
