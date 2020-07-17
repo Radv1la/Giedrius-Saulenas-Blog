@@ -108,7 +108,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-146783036-2"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -213,10 +213,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-analytics
   
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-146783036-2          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+# jekyll_analytics:
+#   GoogleAnalytics:          # Add, if you want to track with Google Analytics
+#     id: UA-146783036-2          # Required - replace with your tracking id
+#     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 
 # Beautiful Jekyll / Dean Attali
