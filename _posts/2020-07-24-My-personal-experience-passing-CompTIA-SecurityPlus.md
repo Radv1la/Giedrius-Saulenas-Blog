@@ -172,3 +172,6 @@ I can't advise if you should take the SYO-501 or SYO-601, but as far as I know f
 ## Final words
 
 Keep calm, you can handle this :). And don't forget, even if CompTIA Security+ is hard, is not that hard if you are consistenly studying and putting the effort.
+
+*Like my content? Help me achieving by next goal - CEH (certified ethical hacker) certificate*
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A51YT1E)

@@ -8,13 +8,21 @@ subtitle: Let's do some hacking!
 <img src="{{ 'assets/img/linkedin.png' | relative_url }}" />
 </a>
 </center>
+
+
+
 ### Who am I?
+
 
 My name is **Giedrius Saulėnas** and I am 22 years old technology enthusiast, hacker, creator, from Lithuania.
 - I am studying information technology at [Vilnius University](https://www.vu.lt/en/)
 - I am working as a penetration tester at [Baltic Amadeus](https://ba.lt/en/)
 
 ### What am I doing?
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A51YT1E)
+
+Learning, teaching what I've learned, and documenting my journey.
+
 Some of the things I like and am trying to get good at:
 - Penetration testing, vulnerability assesments, web application security
 - Quality assurance
