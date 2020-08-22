@@ -65,7 +65,7 @@ hr.small {
 }
 
 /* fix in-page anchors to not be behind fixed header */
-:target:before { 
+:target:before {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
@@ -188,7 +188,7 @@ img {
 
 .navbar-custom .navbar-nav .dropdown-item {
 	color: #F5F5F5;
-	
+
 }
 
 
@@ -726,7 +726,7 @@ footer .footer-custom-content {
     display: block;
   }
 }
-.reader-time .middot { 
+.reader-time .middot {
   margin: 0 0.625rem;
 }
 
@@ -950,7 +950,7 @@ pre {
 }
 
 .trs {
-    padding: 60px;
+  padding: 30px 160px;
 }
 
 .fupl {
