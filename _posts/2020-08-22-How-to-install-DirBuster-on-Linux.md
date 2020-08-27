@@ -40,7 +40,7 @@ Now when you are ready, let's proceed.
 As now you have the DirBuster installed, let's see how it works.
 ![Lets see how the DirBuster works](/assets/img/DirBuster-Configured.png)
 
-So in order to start the DirBuster you have to set a target. For this example, I have a OWASP DVWA running on my network. Make sure you set the protocol and port number, otherwise DirBuster will throw an error. After that, you can set if the GET method only or HEAD and GET should be used, number of threads, that basically describes how fast the tool will go. Next, you should choose a dictionary that will be used for brute forcing. DirBuster comes with different dictionaries. Here I copied the list that you can get by clicking on the **List info** button (refer the screenshot above):
+So in order to start the DirBuster you have to set a target. For this example, I have a DVWA (damn vulnerable web application) running on my network. Make sure you set the protocol and port number, otherwise DirBuster will throw an error. After that, you can set if the GET method only or HEAD and GET should be used, number of threads, that basically describes how fast the tool will go. Next, you should choose a dictionary that will be used for brute forcing. DirBuster comes with different dictionaries. Here I copied the list that you can get by clicking on the **List info** button (refer the screenshot above):
 * **apache-user-enum-1.0.txt**  (8916 usernames). Used for guessing system users on apache with the userdir module enabled (Unordered).
 * **apache-user-enum-2.0.txt**  (10341 usernames). Used for guessing system users on apache with the userdir module enabled (Ordered).
 * **directory-list-2.3-small.txt**  (87650 words). Directories/files that were found on at least 3 different hosts.
