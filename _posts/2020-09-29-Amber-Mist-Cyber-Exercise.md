@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Amber Mist 2020 cyber excercise
+title: Amber Mist 2020 cyber exercise
 subtitle: Participating as the blue team member during the Amber Mist 2020 cyber exercise
-description: Cyber security excercise
+description: Cyber security exercise
 cover-img: /assets/img/amber-mist.jpg
 
-tags: [Amber Mist, cybersecurity excercise, blue team, red team, Amber Mist 2020]
-categories: [Cybersecurity Excercise]
+tags: [Amber Mist, cybersecurity exercise, blue team, red team, Amber Mist 2020]
+categories: [Cybersecurity Exercise]
 ---
 As the cybersecurity exercise, Amber Mist 2020 had finished, I am sharing my experience during the two weeks of intense exercise time. Even though it was not easy, and it was pretty exhausting some of the days, I enjoyed every minute of it.
 ## What is Amber Mist?
