@@ -11,3 +11,5 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-analytics'
 
 gem 'jekyll-twitter-plugin'
+
+gem "kramdown-parser-gfm"
