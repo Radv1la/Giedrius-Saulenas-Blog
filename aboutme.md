@@ -34,11 +34,12 @@ Some of the things I like and am trying to get good at:
 
 These are the things I have experience with:
 - **Programming languages and frameworks**: Python, Node.js, Laravel, Vue.js
-- **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus
-- **Other**: WordPress, Linux
+- **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus, sqlmap, DirBuster
+- **Other**: WordPress, Linux, Ansible
 
-### Events I participated in
+### I participated in
 - OWASP Lithuania Chapter Meetup #12. 2020-07-01
+- [Amber Mist 2020](/Amber-Mist-Cyber-Excercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:

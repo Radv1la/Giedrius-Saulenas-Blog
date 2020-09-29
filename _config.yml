@@ -11,7 +11,7 @@ author: Giedrius Saulėnas
 
 # --- List of links in the navigation bar --- #
 
-navbar-links: 
+navbar-links:
   Articles: "articles"
 #  Articles:
 #    - Bug bounties: "bug-bounties"
@@ -212,6 +212,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-analytics
+  - jekyll-twitter-plugin
 
 
 # Beautiful Jekyll / Dean Attali
