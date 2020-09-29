@@ -11,7 +11,7 @@ categories: [Cybersecurity Excercise]
 As the cybersecurity exercise, Amber Mist 2020 had finished, I am sharing my experience during the two weeks of intense exercise time. Even though it was not easy, and it was pretty exhausting some of the days, I enjoyed every minute of it.
 ## What is Amber Mist?
 
-{% twitter https://twitter.com/LTU_Army/status/1309493733382123521 maxwidth=500 limit=5 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🇱🇹LTU_Army <a href="https://twitter.com/hashtag/CyberDefence?src=hash&amp;ref_src=twsrc%5Etfw">#CyberDefence</a> exercises <a href="https://twitter.com/hashtag/AmberMist2020?src=hash&amp;ref_src=twsrc%5Etfw">#AmberMist2020</a>. Hybrid threats is the new reality, but <a href="https://twitter.com/hashtag/Lithuanian?src=hash&amp;ref_src=twsrc%5Etfw">#Lithuanian</a> response is rock solid 💪 <a href="https://t.co/ErACjCZU9D">pic.twitter.com/ErACjCZU9D</a></p>&mdash; Lithuanian_Armed_Forces (@LTU_Army) <a href="https://twitter.com/LTU_Army/status/1309493733382123521?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Amber Mist is an international cybersecurity exercise that is held annually by the Defence Staff of the Lithuanian Armed Forces. It all started as the national level exercise in 2014 and gradually it grew into an international exercise with participants from other countries, such as Ukraine, Georgia, USA.
 

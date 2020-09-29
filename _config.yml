@@ -212,7 +212,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-analytics
-  - jekyll-twitter-plugin
 
 
 # Beautiful Jekyll / Dean Attali
