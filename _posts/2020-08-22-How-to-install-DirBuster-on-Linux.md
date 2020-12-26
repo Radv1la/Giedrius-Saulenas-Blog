@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to install DirBuster on Linux
+title: How to install DirBuster on Linux?
 subtitle: Simple way of how you can install and use DirBuster
 description: Find out how you can install DirBuster on Linux - one of the most known tools for brute forcing directories.
 cover-img: /assets/img/dirbuster.jpg
