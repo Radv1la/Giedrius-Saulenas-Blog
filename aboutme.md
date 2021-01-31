@@ -25,22 +25,25 @@ My name is **Giedrius Saulėnas** and I am 22 years old technology enthusiast, h
 Learning, teaching what I've learned, and documenting my journey.
 
 Some of the things I like and am trying to get good at:
-- Penetration testing, vulnerability assesments, web application security
-- Quality assurance
-- Creating things (tools, scripts, small websites or whatnot)
-- Bug bounties
+- Penetration testing, vulnerability assesments, web application security.
+- Quality assurance.
+- Creating things (tools, scripts, small websites or whatnot).
+- Bug bounties.
 
 
 ### Skills
 
 These are the things I have experience with:
-- **Programming languages and frameworks**: Python, Node.js, Laravel, Vue.js
-- **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus, sqlmap, DirBuster
-- **Other**: WordPress, Linux, Ansible
+- **Programming languages and frameworks**: Python (weapon of choice), Node.js, Laravel, Vue.js.
+- **Cybersecurity tools**: various commercial DAST scanners (such as Acunetix), Burp Suite, OpenVAS, Nessus, sqlmap, DirBuster.
+- **Other**: WordPress, Linux, Ansible.
+
+### Certificates
+- [CompTIA Security+] (https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile).
 
 ### I participated in
 - OWASP Lithuania Chapter Meetup #12. 2020-07-01
-- [Amber Mist 2020](/Amber-Mist-Cyber-Exercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-
+- [Amber Mist 2020](/Amber-Mist-Cyber-Exercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-05
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:
