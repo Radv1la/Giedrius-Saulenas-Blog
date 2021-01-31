@@ -15,8 +15,9 @@ subtitle: Let's do some hacking!
 
 
 My name is **Giedrius Saulėnas** and I am 22 years old technology enthusiast, hacker, creator, from Lithuania.
-- I am studying information technology at [Vilnius University](https://www.vu.lt/en/)
-- I am working as a penetration tester at [Baltic Amadeus](https://ba.lt/en/)
+- Vilnius University [Vilnius University](https://www.vu.lt/en/) Information Technology graduate.
+- Penetration tester at [Baltic Amadeus](https://ba.lt/en/).
+- Bug bounty hunter and blogger at night.
 
 ### What am I doing?
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A51YT1E)
@@ -39,7 +40,7 @@ These are the things I have experience with:
 
 ### I participated in
 - OWASP Lithuania Chapter Meetup #12. 2020-07-01
-- [Amber Mist 2020](/Amber-Mist-Cyber-Excercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-
+- [Amber Mist 2020](/Amber-Mist-Cyber-Exercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:
