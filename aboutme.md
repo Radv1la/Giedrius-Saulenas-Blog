@@ -39,7 +39,7 @@ These are the things I have experience with:
 - **Other**: WordPress, Linux, Ansible.
 
 ### Certificates
-- [CompTIA Security+] (https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile).
+- [CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile).
 
 ### I participated in
 - OWASP Lithuania Chapter Meetup #12. 2020-07-01
