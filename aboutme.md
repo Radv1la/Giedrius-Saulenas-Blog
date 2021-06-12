@@ -30,7 +30,7 @@ Some of the things I like and am trying to get good at:
 - Bug bounties.
 
 ### Education
-- **Vilnius University](https://www.vu.lt/en/) Informatics bachelor's degree**.
+- **[Vilnius University](https://www.vu.lt/en/) Informatics bachelor's degree**.
   - During my studies I had different courses, such as: introduction to computer architecture, OOP programming, data structures, UNIX operating systems.
   - For the whole sophomore year I've participated in the PBL (Problem-Based learning) projects. During the two semesters we, a team of the groupmates, were creating projects instead of the majority of the usual classes. We've developed content sharing system, and traffic sign recognition system. As we were fresh IT students, we learned a lot of things, from drawing diagrams, projecting systems, to programming a real systems, making presentations about it and presenting it to other groups and lecturers. We had also a lot of discussions and technical talks between our group, that helped us to grow as specialists.
 
@@ -38,7 +38,7 @@ Some of the things I like and am trying to get good at:
 ### Skills
 
 These are the things I have experience with:
-<<<<<<< HEAD
+
 - **Programming languages and frameworks**: Python, Node.js, Laravel
 - **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus, Kali Linux tools overall
 - **Other**: WordPress, Linux VMs configuation and hardening, quality assurance, stress testing, bug bounty programs
@@ -46,7 +46,7 @@ These are the things I have experience with:
 ### I've participated in
 - Number of OWASP Lithuania Chapter Meetups (so far only as a listener)
 - [Amber Mist 2020](/Amber-Mist-Cyber-Excercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-
-=======
+
 - **Programming languages and frameworks**: Python (weapon of choice), Node.js, Laravel, Vue.js.
 - **Cybersecurity tools**: various commercial DAST scanners (such as Acunetix), Burp Suite, OpenVAS, Nessus, sqlmap, DirBuster.
 - **Other**: WordPress, Linux, Ansible.
@@ -57,7 +57,6 @@ These are the things I have experience with:
 ### I participated in
 - OWASP Lithuania Chapter Meetup #12. 2020-07-01
 - [Amber Mist 2020](/Amber-Mist-Cyber-Exercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-05
->>>>>>> 010a5e1bbe97ccc3357f35c4729f4dcfd3c507d1
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:
