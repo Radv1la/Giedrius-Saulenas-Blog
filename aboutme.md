@@ -21,9 +21,7 @@ My name is **Giedrius Saulėnas** and I am 22 years old technology enthusiast, h
 ### What am I doing?
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A51YT1E)
 
-Learning, teaching what I've learned, and documenting my journey.
-
-Some of the things I like and am trying to get good at:
+Learning, teaching what I've learned, and documenting my journey. Some of the things I like and am trying to get good at:
 - Penetration testing, vulnerability assesments, web application security.
 - Quality assurance.
 - Creating things (tools, scripts, small websites or whatnot).
@@ -38,7 +36,6 @@ Some of the things I like and am trying to get good at:
 ### Skills
 
 These are the things I have experience with:
-
 - **Programming languages and frameworks**: Python, Node.js, Laravel
 - **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus, Kali Linux tools overall
 - **Other**: WordPress, Linux VMs configuation and hardening, quality assurance, stress testing, bug bounty programs
@@ -52,8 +49,8 @@ These are the things I have experience with:
 - [Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=).
 
 ### I participated in
-- OWASP Lithuania Chapter Meetup #12. 2020-07-01
-- [Amber Mist 2020](/Amber-Mist-Cyber-Exercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-05
+- Number of OWASP Lithuania Chapter Meetups (so far, only as a listener)
+- [Amber Mist 2020](/Amber-Mist-Cyber-Exercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-25
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:
