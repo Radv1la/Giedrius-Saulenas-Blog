@@ -18,6 +18,7 @@ My name is **Giedrius Saulėnas** and I am 22 years old technology enthusiast, h
 - I am working as a penetration tester at [Baltic Amadeus](https://ba.lt/en/)
 - Blogger (owner of the <a href="https://bughacking.com">https://bughacking.com</a>) and bug bounty hunter at night
 
+
 ### What am I doing?
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A51YT1E)
 
@@ -27,6 +28,7 @@ Learning, teaching what I've learned, and documenting my journey. Some of the th
 - Creating things (tools, scripts, small websites or whatnot).
 - Bug bounties.
 
+
 ### Education
 - **[Vilnius University](https://www.vu.lt/en/) Informatics bachelor's degree**.
   - During my studies I had different courses, such as: introduction to computer architecture, OOP programming, data structures, UNIX operating systems.
@@ -34,23 +36,26 @@ Learning, teaching what I've learned, and documenting my journey. Some of the th
 
 
 ### Skills
-
 These are the things I have experience with:
 - **Programming languages and frameworks**: Python, Node.js, Laravel
 - **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus, Kali Linux tools overall
 - **Other**: WordPress, Linux VMs configuation and hardening, quality assurance, stress testing, bug bounty programs
 
+
 ### I've participated in
 - Number of OWASP Lithuania Chapter Meetups (so far only as a listener)
 - [Amber Mist 2020](/Amber-Mist-Cyber-Excercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-05
+
 
 ### Certificates
 - [CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile).
 - [Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=).
 
+
 ### I participated in
 - Number of OWASP Lithuania Chapter Meetups (so far, only as a listener)
 - [Amber Mist 2020](/Amber-Mist-Cyber-Exercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-25
+
 
 ### Why cybersecurity?
 Even though I am trying to put all my efforts into the domains of cybersecurity, I remain open minded. However, cybersecurity is an area that is really interesting for me. What fascinates me the most:
