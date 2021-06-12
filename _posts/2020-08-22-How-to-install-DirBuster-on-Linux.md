@@ -6,7 +6,7 @@ description: Find out how you can install DirBuster on Linux - one of the most k
 cover-img: /assets/img/dirbuster.jpg
 
 tags: [DirBuster, Brute force, Directory brute force tools, How to brute force directories]
-categories: [cybersecurity-tools]
+categories: [Cybersecurity Tools]
 ---
 [DirBuster](https://tools.kali.org/web-applications/dirbuster) is one of the handy tools that is used during the reconnaissance stage. It helps to discover existing directories of the system. In simple words, it is a multithreaded application for brute forcing the directories. So, basically, it works like this: you launch the Dirbuster, choose a dictionary, set the target, and launch the attack. The tool then executes many GET/HEAD requests and tries to guess if a given directory or file exists on the target’s system.
 ## Who created Dirbuster?
