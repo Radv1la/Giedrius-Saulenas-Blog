@@ -17,9 +17,6 @@ subtitle: Let's do some hacking!
 My name is **Giedrius Saulėnas** and I am 22 years old technology enthusiast, hacker, creator, from Lithuania.
 - I am working as a penetration tester at [Baltic Amadeus](https://ba.lt/en/)
 - Blogger (owner of the <a href="https://bughacking.com">https://bughacking.com</a>) and bug bounty hunter at night
-- Vilnius University [Vilnius University](https://www.vu.lt/en/) Information Technology graduate.
-- Penetration tester at [Baltic Amadeus](https://ba.lt/en/).
-- Bug bounty hunter and blogger at night.
 
 ### What am I doing?
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A51YT1E)
