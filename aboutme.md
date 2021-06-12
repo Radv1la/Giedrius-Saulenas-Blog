@@ -36,7 +36,7 @@ These are the things I have experience with:
 
 
 ### Certificates
-- [CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile)
+- ![Security+](/assets/img/SecurityPlus-Logo-Certified-CE.jpg)[CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile)
 - [Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=)
 
 
