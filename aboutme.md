@@ -28,6 +28,17 @@ Learning, teaching what I've learned, and documenting my journey. Some of the th
 - Creating things (tools, scripts, small websites or whatnot).
 - Bug bounties.
 
+### Skills
+These are the things I have experience with:
+- **Programming languages and frameworks**: Python, Node.js, Laravel
+- **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus, Kali Linux tools overall
+- **Other**: WordPress, Linux VMs configuation and hardening, quality assurance, stress testing, bug bounty programs
+
+
+### Certificates
+- [CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile)
+- [Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=)
+
 
 ### Education
 - **[Vilnius University](https://www.vu.lt/en/) Informatics bachelor's degree**.
@@ -36,21 +47,9 @@ Learning, teaching what I've learned, and documenting my journey. Some of the th
   - Graduated with honors. Topic of the thesis: "Secure vulnerability scanner for system auditing".
 
 
-### Skills
-These are the things I have experience with:
-- **Programming languages and frameworks**: Python, Node.js, Laravel
-- **Cybersecurity tools**: Acunetix, Burp Suite, OpenVAS, Nessus, Kali Linux tools overall
-- **Other**: WordPress, Linux VMs configuation and hardening, quality assurance, stress testing, bug bounty programs
-
-
 ### I've participated in
 - Number of OWASP Lithuania Chapter Meetups (so far only as a listener)
 - [Amber Mist 2020](/Amber-Mist-Cyber-Excercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-25
-
-
-### Certificates
-- [CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile)
-- [Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=)
 
 
 ### Why cybersecurity?
