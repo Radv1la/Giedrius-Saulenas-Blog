@@ -9,7 +9,6 @@ title: Articles
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% unless category_name == "cybersecurity-tools" or category_name == "raspberry-pi" or category_name == "programming" %}
       <div id="#{{ category_name | slugize }}"></div>
       <p></p>
 
@@ -20,7 +19,6 @@ title: Articles
         <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
       </article>
       {% endfor %}
-    {% endunless %}
   </div>
 {% endfor %}
 </div>
