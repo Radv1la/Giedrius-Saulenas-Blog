@@ -37,7 +37,7 @@ These are the things I have experience with:
 
 ### Certificates
 - <img src="/assets/img/SecurityPlus-Logo-Certified-CE.jpg" alt="CompTIA Security+" width="120" height="120"/>[CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile)
-- <img src="/assets/img/CEH-logo.jpg" alt="Certified Ethical Hacker CEH" width="130" height="45"/>[Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=)
+- <img src="/assets/img/CEH-logo.jpg" alt="Certified Ethical Hacker CEH" width="130" height="97"/>[Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=)
 
 
 ### Education
