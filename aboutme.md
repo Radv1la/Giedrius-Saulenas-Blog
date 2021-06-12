@@ -31,8 +31,9 @@ Learning, teaching what I've learned, and documenting my journey. Some of the th
 
 ### Education
 - **[Vilnius University](https://www.vu.lt/en/) Informatics bachelor's degree**.
-  - During my studies I had different courses, such as: introduction to computer architecture, OOP programming, data structures, UNIX operating systems.
+  - During my studies I had different courses, such as: introduction to computer architecture, OOP programming, data structures, UNIX operating systems, database management systems, fundamentals of business, program system's engineering, computer networks, managing projects and programmes, advanced topics in information security, network security, service management, software archtiecture.
   - For the whole sophomore year I've participated in the PBL (Problem-Based learning) projects. During the two semesters we, a team of the groupmates, were creating projects instead of the majority of the usual classes. We've developed content sharing system, and traffic sign recognition system. As we were fresh IT students, we learned a lot of things, from drawing diagrams, projecting systems, to programming a real systems, making presentations about it and presenting it to other groups and lecturers. We had also a lot of discussions and technical talks between our group, that helped us to grow as specialists.
+  - Graduated with honors. Topic of the thesis: "Secure vulnerability scanner for system auditing".
 
 
 ### Skills
