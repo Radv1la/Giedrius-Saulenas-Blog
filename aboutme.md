@@ -45,14 +45,11 @@ These are the things I have experience with:
 
 ### I've participated in
 - Number of OWASP Lithuania Chapter Meetups (so far only as a listener)
-- [Amber Mist 2020](/Amber-Mist-Cyber-Excercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-
-
-- **Programming languages and frameworks**: Python (weapon of choice), Node.js, Laravel, Vue.js.
-- **Cybersecurity tools**: various commercial DAST scanners (such as Acunetix), Burp Suite, OpenVAS, Nessus, sqlmap, DirBuster.
-- **Other**: WordPress, Linux, Ansible.
+- [Amber Mist 2020](/Amber-Mist-Cyber-Excercise/) - international cybersecurity exercise, organized by the Defence Staff of the Lithuanian Armed Forces. 2020-09-14 - 2020-09-05
 
 ### Certificates
 - [CompTIA Security+](https://www.youracclaim.com/badges/61b71bc6-0c0c-4782-bbbd-f63aa40f1e51/linked_in_profile).
+- [Certified Ethical Hacker CEH](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=4GRQrlo1X2IwL8suIC55aTJSqKkAxIl0HqG6gfvSj2w=).
 
 ### I participated in
 - OWASP Lithuania Chapter Meetup #12. 2020-07-01
