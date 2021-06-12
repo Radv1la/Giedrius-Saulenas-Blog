@@ -18,7 +18,7 @@ navbar-links:
 #    - Learning cybersecurity: "learning-cybersecurity"
 #    - Case studies: "case-studies"
 #    - Other Writeups: "other-writeups"
-  Tutorials: "tutorials"
+#   Tutorials: "tutorials"
   Projects: "projects"
   Disclosures: "disclosures"
   About Me: "aboutme"
